@@ -81,4 +81,4 @@ The dataset used in this project is named `car data.csv`, containing details of 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-price-prediction.git
+   git clone [https://github.com/omkakadiyagithub/Car-Price-Prediction.git]
